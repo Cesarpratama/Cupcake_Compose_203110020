@@ -1,8 +1,11 @@
 Cupcake app
 =================================
 
-"Cupcake App" adalah sebuah aplikasi Android yang dirancang untuk memesan kue cupcakes dengan opsi untuk menentukan jumlah, rasa, dan tanggal pengambilan. Aplikasi ini memiliki alur pemesanan yang melibatkan beberapa layar, termasuk layar awal, layar pemilihan rasa, layar pemilihan tanggal pengambilan, dan layar ringkasan pesanan. Pengguna dapat memasukkan detail pesanan mereka dan melihat ringkasan pesanan sebelum mengirimkannya ke aplikasi lain untuk diproses lebih lanjut. itulah merupakan deskripsi singkat mengenai aplikasi cupcake 
+"Cupcake App" adalah sebuah aplikasi Android yang dirancang untuk memesan kue cupcakes dengan opsi untuk menentukan jumlah, rasa, dan tanggal pengambilan. 
+Aplikasi ini memiliki alur pemesanan yang melibatkan beberapa layar, termasuk layar awal, layar pemilihan rasa, layar pemilihan tanggal pengambilan, dan layar ringkasan pesanan. Pengguna dapat memasukkan detail pesanan mereka dan melihat ringkasan pesanan sebelum mengirimkannya ke aplikasi lain untuk diproses lebih lanjut. 
 
+Itulah merupakan deskripsi singkat mengenai aplikasi cupcake 
+Di dalam file cupcakescreen.kt juga terdapat beberapa koomentar agar pembaca dapat lebih mudah dalam memahami isi dari script kode tersebut tentang fungsi daripada kode tersebut.
 TODO
 
 
